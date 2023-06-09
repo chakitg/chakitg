@@ -106,7 +106,7 @@
 
 <!--START_SECTION:waka-simple-->
 
-```text
+<!-- ```text
 From: 24 January 2023 - To: 07 June 2023
 
 Total Time: 183 hrs 4 mins
@@ -117,7 +117,7 @@ C++          16 hrs 55 mins  ██▒░░░░░░░░░░░░░░
 JSON         5 hrs 13 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
 CSS          5 hrs 4 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
 XML          3 hrs 9 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
-```
+``` -->
 
 <!--END_SECTION:waka-simple-->
 
