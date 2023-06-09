@@ -31,7 +31,7 @@
 --- 
 
 
-### ⚙️ My Projects 
+<!-- ### ⚙️ My Projects  -->
 
 <!-- #### Full-Stack Projects :
 
@@ -56,8 +56,8 @@
 * [Country Search](https://github.com/getlost01/country-search)
 * [Portfolio Site](https://github.com/getlost01/portfolio.github.io)
 * [Cure Science Updated](https://github.com/getlost01/CureScience) -->
-
-<a href="https://github.com/chakitg?tab=repositories"><kbd> <br> View all of my projects <br> </kbd></a>
+<!-- 
+<a href="https://github.com/chakitg?tab=repositories"><kbd> <br> View all of my projects <br> </kbd></a> -->
 
 ---
 
