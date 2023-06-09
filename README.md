@@ -25,7 +25,7 @@
 <img src="https://chakitg.github.io/github-stats.github.io/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://chakitg.github.io/github-stats.github.io/generated/languages.svg#gh-dark-mode-only" />
 </a>
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=getlost01&layout=compact&langs_count=10&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=getlost01&layout=compact&langs_count=10&theme=react)
 <!-- ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=getlost01&theme=react) -->
 
 --- 
@@ -33,7 +33,7 @@
 
 ### ⚙️ My Projects 
 
-#### Full-Stack Projects :
+<!-- #### Full-Stack Projects :
 
 * [Web Tools](https://github.com/getlost01/web-tools-gl01)
 * [Blogging Web APIs](https://github.com/getlost01/Postgre-APIs-App)
@@ -55,7 +55,7 @@
 * [Quiz App Templates](https://github.com/getlost01/quiz-template)
 * [Country Search](https://github.com/getlost01/country-search)
 * [Portfolio Site](https://github.com/getlost01/portfolio.github.io)
-* [Cure Science Updated](https://github.com/getlost01/CureScience)
+* [Cure Science Updated](https://github.com/getlost01/CureScience) -->
 
 <a href="https://github.com/getlost01/getlost01/tree/main/projects"><kbd> <br> Veiw all of my projects <br> </kbd></a>
 
