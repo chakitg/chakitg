@@ -25,8 +25,8 @@
 <img src="https://chakitg.github.io/github-stats.github.io/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://chakitg.github.io/github-stats.github.io/generated/languages.svg#gh-dark-mode-only" />
 </a>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=getlost01&layout=compact&langs_count=10&theme=react)
-<!-- ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=getlost01&theme=react) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chakitg&layout=compact&langs_count=10&theme=react)
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chakitg&theme=react)
 
 --- 
 
