@@ -125,9 +125,8 @@ XML          3 hrs 9 mins    ▒░░░░░░░░░░░░░░░░
 
 ### 🐍 Contribution snake
 
-<picture>
   ![Snake animation](https://github.com/chakitg/chakitg/blob/output/github-contribution-grid-snake.svg)
-</picture>
+
 
 ---
 
