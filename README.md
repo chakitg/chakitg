@@ -44,6 +44,10 @@
 * [ABitShort](https://github.com/getlost01/linkshortner)
 * [File Share App](https://github.com/getlost01/dlink-share)
 
+#### HTML CSS Projects
+* [TinDog-Tinder For Dogs](https://chakitg.github.io/tindog/)
+* [Pinefeed](https://chakitg.github.io/Pinefeed/)
+
 #### Web Store Extensions 
 
 * [Color Tools and Dropper](https://github.com/getlost01/color-picker-updated)
