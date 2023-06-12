@@ -31,7 +31,20 @@
 --- 
 
 
-<!-- ### ⚙️ My Projects  -->
+### ⚙️ My Projects 
+
+
+#### HTML CSS Projects
+* [TinDog-Tinder For Dogs](https://chakitg.github.io/tindog/)
+* [Pinefeed](https://chakitg.github.io/Pinefeed/)
+* [Parallex Website](https://chakitg.github.io/parallax_web/)
+* [Restaurant Website](https://chakitg.github.io/restaurant_web/)
+
+#### College Projects
+* [Jarvis](https://github.com/chakitg/Jarvis) 
+* [Marvels](https://github.com/chakitg/marvels)
+* [AssetChain](https://github.com/chakitg/assetChain) 
+
 
 <!-- #### Full-Stack Projects :
 
@@ -43,10 +56,6 @@
 * [Voting Managment System](https://github.com/getlost01/VotingManagmentSystem)
 * [ABitShort](https://github.com/getlost01/linkshortner)
 * [File Share App](https://github.com/getlost01/dlink-share)
-
-#### HTML CSS Projects
-* [TinDog-Tinder For Dogs](https://chakitg.github.io/tindog/)
-* [Pinefeed](https://chakitg.github.io/Pinefeed/)
 
 #### Web Store Extensions 
 
