@@ -21,7 +21,7 @@
 ### 🔥 My Stats 
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=chakitg&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=chakitg&theme=react" />
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=chakitg&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
-<a href="https://github.com/chakitg/github-stats">
+<a href="https://github.com/chakitg/github-stats"></a>
 <!-- <img src="https://chakitg.github.io/github-stats.github.io/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://chakitg.github.io/github-stats.github.io/generated/languages.svg#gh-dark-mode-only" />
 </a>
@@ -29,7 +29,6 @@
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chakitg&theme=react) -->
 
 --- 
-
 
 ### ⚙️ My Projects 
 
