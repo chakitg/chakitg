@@ -10,7 +10,7 @@
 ### 👦 About Me
 - 👨‍💻 I'm an ECE graduate from GGSIPU Delhi.
 
-- 🔭 I’m currently working on **PAYTM**
+- 🔭 I’m currently working in **PAYTM**
 
 - 🌱 I’m currently developing and learning **JavaScript, Node.js, and other full-stack tools.**
 
