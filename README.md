@@ -19,6 +19,7 @@
 --- 
 
 ### 🔥 My Stats 
+<div align="center">
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=chakitg&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=chakitg&theme=react" />
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=chakitg&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 <a href="https://github.com/chakitg/github-stats"></a>
@@ -27,7 +28,7 @@
 </a>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chakitg&layout=compact&langs_count=10&theme=react)
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chakitg&theme=react) -->
-
+</div>
 --- 
 
 ### ⚙️ My Projects 
@@ -77,7 +78,7 @@
 
 ### :hammer_and_wrench: Languages and Tools 
 
-<div>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>&nbsp;
@@ -135,9 +136,8 @@ XML          3 hrs 9 mins    ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-simple-->
 
----
 
-### 🐍 Contribution snake
+### 🐍 Contribution Snake
 
 <!--   ![Snake animation](https://github.com/chakitg/chakitg/blob/output/github-contribution-grid-snake.svg) -->
 <p align="center"> <img src="https://github.com/chakitg/chakitg/blob/output/github-contribution-grid-snake.svg" width="700" /> </p>
@@ -148,7 +148,7 @@ XML          3 hrs 9 mins    ▒░░░░░░░░░░░░░░░░
 
 ### 🔗 Social info
 
-<div id="badges">
+<div id="badges" align="center">
     <a href="https://www.linkedin.com/in/chakit-gupta/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
