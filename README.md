@@ -36,12 +36,18 @@
 
 #### HTML CSS Projects
 * [Restaurant Website](https://chakitg.github.io/restaurant_web/)
-* [myTunes](https://github.com/chakitg/my_tunes)
+* [Netflix Clone]()
 * [TinDog-Tinder For Dogs](https://chakitg.github.io/tindog/)
-* [Pinefeed](https://chakitg.github.io/Pinefeed/)
 * [Parallex Website](https://chakitg.github.io/parallax_web/)
+* [Pinefeed](https://chakitg.github.io/Pinefeed/)
 
 
+#### JAVASCRIPT Projects
+* [myTunes](https://github.com/chakitg/my_tunes)
+* [MoonLight Project]()
+* [Life Timer App]()
+
+  
 #### College Projects
 * [Jarvis](https://github.com/chakitg/Jarvis) 
 * [Marvels](https://github.com/chakitg/marvels)
