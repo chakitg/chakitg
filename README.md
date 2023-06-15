@@ -22,13 +22,13 @@
 <div align="center">
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=chakitg&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=chakitg&theme=react" />
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=chakitg&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
-<a href="https://github.com/chakitg/github-stats"></a>
+<a href="https://github.com/chakitg/github-stats"></a> </div>
 <!-- <img src="https://chakitg.github.io/github-stats.github.io/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://chakitg.github.io/github-stats.github.io/generated/languages.svg#gh-dark-mode-only" />
 </a>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chakitg&layout=compact&langs_count=10&theme=react)
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chakitg&theme=react) -->
-</div>
+
 --- 
 
 ### ⚙️ My Projects 
@@ -72,9 +72,9 @@
 * [Portfolio Site](https://github.com/getlost01/portfolio.github.io)
 * [Cure Science Updated](https://github.com/getlost01/CureScience) -->
 <!-- 
-<a href="https://github.com/chakitg?tab=repositories"><kbd> <br> View all of my projects <br> </kbd></a> -->
+<a href="https://github.com/chakitg?tab=repositories"><kbd> <br> View all of my projects <br> </kbd></a> 
 
----
+--- -->
 
 ### :hammer_and_wrench: Languages and Tools 
 
@@ -148,7 +148,7 @@ XML          3 hrs 9 mins    ▒░░░░░░░░░░░░░░░░
 
 ### 🔗 Social info
 
-<div id="badges" align="center">
+<div id="badges">
     <a href="https://www.linkedin.com/in/chakit-gupta/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
