@@ -140,11 +140,9 @@ XML          3 hrs 9 mins    ▒░░░░░░░░░░░░░░░░
 ### 🐍 Contribution snake
 
 <!--   ![Snake animation](https://github.com/chakitg/chakitg/blob/output/github-contribution-grid-snake.svg) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://chakitg.github.io/github-snake.github.io/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://chakitg.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://chakitg.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
-</picture>
+<p align="center"> <img src="https://github.com/chakitg/chakitg/blob/output/github-contribution-grid-snake.svg" width="700" /> </p>
+
+<h3 align="center">Thank you so much for coming here :four_leaf_clover:</h3>
 
 ---
 
