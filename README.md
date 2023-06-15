@@ -53,7 +53,7 @@
 * [Marvels](https://github.com/chakitg/marvels)
 * [AssetChain](https://github.com/chakitg/assetChain) 
 
-
+---
 <!-- #### Full-Stack Projects :
 
 * [Web Tools](https://github.com/getlost01/web-tools-gl01)
