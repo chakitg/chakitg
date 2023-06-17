@@ -33,20 +33,19 @@
 
 ### ⚙️ My Projects 
 
+#### JAVASCRIPT Projects
+* [my-website]()
+* [Spooky World](https://github.com/chakitg/spooky-world)
+* [myTunes](https://github.com/chakitg/my_tunes/)
+* [Life Timer App](https://github.com/chakitg/life-timer-app/)
+<!--* 2 clones -->
 
 #### HTML CSS Projects
-* [Netflix Clone]()
-* [Restaurant Website](https://chakitg.github.io/restaurant_web/)
-* [TinDog-Tinder For Dogs](https://chakitg.github.io/tindog/)
-* [Parallex Website](https://chakitg.github.io/parallax_web/)
-* [Pinefeed](https://chakitg.github.io/Pinefeed/)
-
-
-#### JAVASCRIPT Projects
-* [myTunes](https://chakitg.github.io/my_tunes/)
-* [Spooky World](https://github.com/chakitg/spooky-world)
-* [Life Timer App](https://chakitg.github.io/life-timer-app/)
-<!--* 2 clones -->
+* [Bingeflix]()
+* [Restaurant Website](https://github.com/chakitg/restaurant_web/)
+* [TinDog-Tinder For Dogs](https://github.com/chakitg/tindog/)
+* [Parallax Moonlight](https://github.com/chakitg/moonlight-project)
+<!-- * [Pinefeed](https://chakitg.github.io/Pinefeed/) -->
 
   
 #### College Projects
