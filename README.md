@@ -54,7 +54,8 @@
 * [Marvels](https://github.com/chakitg/marvels)
 * [AssetChain](https://github.com/chakitg/assetChain)
 
-  <a href="https://github.com/chakitg?tab=repositories"><kbd> <br> View all of my projects <br> </kbd></a> 
+
+<a href="https://github.com/chakitg?tab=repositories"><kbd> <br> View All Of My Projects <br> </kbd></a> 
 
 ---
 <!-- #### Full-Stack Projects :
