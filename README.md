@@ -44,7 +44,7 @@
 
 #### JAVASCRIPT Projects
 * [myTunes](https://chakitg.github.io/my_tunes/)
-* [MoonLight Project](https://github.com/chakitg/moonlight-project)
+* [Spooky World](https://github.com/chakitg/spooky-world)
 * [Life Timer App](https://chakitg.github.io/life-timer-app/)
 <!--* 2 clones -->
 
@@ -52,7 +52,9 @@
 #### College Projects
 * [Jarvis](https://github.com/chakitg/Jarvis) 
 * [Marvels](https://github.com/chakitg/marvels)
-* [AssetChain](https://github.com/chakitg/assetChain) 
+* [AssetChain](https://github.com/chakitg/assetChain)
+
+  <a href="https://github.com/chakitg?tab=repositories"><kbd> <br> View all of my projects <br> </kbd></a> 
 
 ---
 <!-- #### Full-Stack Projects :
@@ -79,7 +81,7 @@
 * [Portfolio Site](https://github.com/getlost01/portfolio.github.io)
 * [Cure Science Updated](https://github.com/getlost01/CureScience) -->
 <!-- 
-<a href="https://github.com/chakitg?tab=repositories"><kbd> <br> View all of my projects <br> </kbd></a> 
+
 
 --- -->
 
