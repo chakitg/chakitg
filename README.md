@@ -41,7 +41,7 @@
 <!--* 2 clones -->
 
 #### HTML CSS Projects
-* [Bingeflix]()
+* [Bingeflix](https://github.com/chakitg/bingeflix)
 * [Restaurant Website](https://github.com/chakitg/restaurant_web/)
 * [TinDog-Tinder For Dogs](https://github.com/chakitg/tindog/)
 * [Parallax Moonlight](https://github.com/chakitg/moonlight-project)
