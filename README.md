@@ -164,8 +164,9 @@ XML          3 hrs 9 mins    ▒░░░░░░░░░░░░░░░░
     <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=creator.chakitg1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
-<!--     <a href="https://portfolio-de-aagam.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-dda703?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
+<!--<a href="https://portfolio-de-aagam.netlify.app/">
+    
     </a> -->
 </div>
 
