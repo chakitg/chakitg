@@ -34,7 +34,7 @@
 ### ⚙️ My Projects 
 
 #### JAVASCRIPT Projects
-* [my-website]()
+* [my-website](https://github.com/chakitg/my-website)
 * [Spooky World](https://github.com/chakitg/spooky-world)
 * [myTunes](https://github.com/chakitg/my_tunes/)
 * [Life Timer App](https://github.com/chakitg/life-timer-app/)
