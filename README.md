@@ -34,6 +34,7 @@
 ### ⚙️ My Projects 
 
 #### JAVASCRIPT Projects
+* [Sorting Visualiser](https://github.com/chakitg/sorting_visualiser)
 * [my-website](https://github.com/chakitg/my-website)
 * [Spooky World](https://github.com/chakitg/spooky-world)
 * [myTunes](https://github.com/chakitg/my_tunes/)
