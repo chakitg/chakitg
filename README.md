@@ -164,8 +164,8 @@ XML          3 hrs 9 mins    ▒░░░░░░░░░░░░░░░░
 
 ### 🐍 Contribution Snake
 
-<!--   ![Snake animation](https://github.com/chakitg/chakitg/blob/output/github-contribution-grid-snake.svg) -->
-<p align="center"> <img src="https://github.com/chakitg/chakitg/blob/output/github-contribution-grid-snake.svg" width="700" /> </p>
+  ![Snake animation](https://github.com/chakitg/chakitg/blob/output/github-contribution-grid-snake.svg)
+<!-- <p align="center"> <img src="https://github.com/chakitg/chakitg/blob/output/github-contribution-grid-snake.svg" width="700" /> </p> -->
 
 <h3 align="center">Thank you so much for coming here :four_leaf_clover:</h3>
 
