@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact : **My Git-Hub codes = 50% Me + 20% StackOverflow + 30% Google**
 
-- 🧑‍💻 Want to have a chat...? Lets connect on LinkedIn.
+- 🧑‍💻 Want to have a chat...? Lets connect on [LinkedIn](https://www.linkedin.com/in/chakitg/).
 
 --- 
 
