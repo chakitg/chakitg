@@ -136,8 +136,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>&nbsp;
 <!--   <img src="https://user-images.githubusercontent.com/79409258/226091590-d7d020ad-ce51-4497-bd7e-db7ed6e81589.png" alt="analytics" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/79409258/226092991-4c479dbd-e253-4bec-ba2c-598206a7848d.png" alt="clarity" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/79409258/226091920-a6b75979-6f7f-427f-8a95-c6fe279929f2.png" alt="swagger" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/79409258/226093710-b6a36dcd-8a66-4a1b-8ef2-1faeb0b6f3e2.png" alt="canva" width="40" height="40"/>&nbsp;-->
+  <img src="https://user-images.githubusercontent.com/79409258/226091920-a6b75979-6f7f-427f-8a95-c6fe279929f2.png" alt="swagger" width="40" height="40"/>&nbsp;-->
+  <img src="https://user-images.githubusercontent.com/79409258/226093710-b6a36dcd-8a66-4a1b-8ef2-1faeb0b6f3e2.png" alt="canva" width="40" height="40"/>&nbsp;
   <img src="https://svgshare.com/i/5xY.svg" alt="postman" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/79409258/226091987-3cdf9344-dcfa-4d4e-ad0d-d3ab37c3c4db.png" alt="notion" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>&nbsp;
