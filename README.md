@@ -47,8 +47,8 @@
 ### ⚙️ My Projects 
 
 #### REACT.JS Projects
-*[NEXA - AI Engine](https://nexa-ai-engine.netlify.app/)
-*[Tic Tac Toe]
+* [NEXA - AI Engine](https://nexa-ai-engine.netlify.app/)
+* [Tic Tac Toe](https://nexa-ai-engine.netlify.app/)
 
 
 #### JAVASCRIPT Projects
